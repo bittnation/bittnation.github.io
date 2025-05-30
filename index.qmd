@@ -1,10 +1,27 @@
 ---
-title: "bittnation.github.io"
+title: "Rachel Bittner"
+---
+title: "Samantha Csik"
+image: personal_website/temporaryimage.pdf
+toc: false
+about: 
+  template: marquee
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - text: GitHub
+      href: https://github.com/bittnation
+    - text: Email
+      href: rachelbittner@ucsb.edu
+      rachelbittner7@gmail.com
+---
+        
+# page content excluded for brevity ~
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, my name is Rachel Bittner and I am a third year Environmental studies and EEMB (Ecology, Evolution, and Marine Biology) major...
 
 ```{r}
 1 + 1
