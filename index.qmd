@@ -1,13 +1,11 @@
 ---
 title: "Rachel Bittner"
----
-title: "Samantha Csik"
 image: personal_website/temporaryimage.pdf
 toc: false
 about: 
   template: marquee
   image-shape: rectangle
-  image-width: 17em
+  image-width: 17
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/samanthacsik/
