@@ -10,14 +10,15 @@ website:
         text: Home
       - about.qmd
       - Projects.qmd
+      - Research.qmd
+      - cv.qmd
 
 format:
   html:
     theme:
       light: Morph
       dark: Solar
-      - cosmo
-      - brand
+
     css: styles.css
     toc: true
     page-layout: full
