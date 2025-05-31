@@ -1,26 +1,23 @@
 ---
 title: "Rachel Bittner"
-image: personal_website/temporaryimage.pdf
+image: "images/profile.jpg"
+
 toc: false
-about: 
+about:
   template: marquee
   image-shape: rectangle
-  image-width: 17
+  image-width: "17"
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
+      href: "www.linkedin.com/in/rachel-brooke-bittne"
     - text: GitHub
-      href: https://github.com/bittnation
-    - text: Email
-      href: rachelbittner@ucsb.edu
-      rachelbittner7@gmail.com
----
-        
-# page content excluded for brevity ~
+      href: "https://github.com/bittnation"
+    - text: UCSB Email
+      href: "mailto:rachelbittner@ucsb.edu"
+    - text: Personal Email
+      href: "mailto:rachelbittner7@gmail.com"
+
 ---
 
 Hi, my name is Rachel Bittner and I am a third year Environmental studies and EEMB (Ecology, Evolution, and Marine Biology) major...
 
-```{r}
-1 + 1
-```
