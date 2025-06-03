@@ -17,7 +17,7 @@ We found that,Sediments with higher percentages of mud contained significantly m
 
 These results highlight the importance of sediment texture in determining carbon burial potential and offer insights for site selection and sediment management in blue carbon restoration projects.
 
-### Learning to code in R studio:
+### Learning to code in R studio
 
 ![Writing code](images/code.jpeg)
 
@@ -27,8 +27,6 @@ These results highlight the importance of sediment texture in determining carbon
 
 A beginner-level data visualization project exploring how productivity differs between study locations using personal data. This project combines R code, visual output, and reflection on both the process and personal habits.
 
-I created a boxplot using ggplot2 to visualize differences in my productivity (measured in hours) based on where I studied, at home or in the library. The plot includes jittered data points, custom fill colors, and removed the legend for clarity.The visualization indicates that I tend to be more productive in the library, with a higher median and a tighter distribution of productivity hours compared to home.
+I created a boxplot using ggplot2 to visualize differences in my productivity (measured in hours) based on where I studied, at home or in the library. The plot includes jittered data points, custom fill colors, and removed the legend for clarity. The visualization indicates that I tend to be more productive in the library, with a higher median and a tighter distribution of productivity hours compared to home.
 
-Althouh simple, this project taught me how to collect, process, and analyze my own data. All are important skills that I plan to utilize and expand upon during future projects. 
-
-  
+Although simple, this project taught me how to collect, process, and analyze my own data. All are important skills that I plan to utilize and expand upon during future projects.
