@@ -2,7 +2,9 @@
 title: " My Projects"
 format: html
 ---
----
+
+
+
 Welcome to my project showcase! Below you'll find a mix of coding work and academic/research-based writing.
 
 -   [Data Analysis: Glacier Loss Visualization](analysis-with-code.qmd)
@@ -26,4 +28,3 @@ In this study, I analyzed sediment grain sizes from various seagrass beds across
 
 Understanding these patterns is essential for developing blue carbon conservation strategies, especially in coastal habitat restoration efforts.
 
----

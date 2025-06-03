@@ -4,6 +4,76 @@
     "href": "index.html",
     "title": "Rachel Bittner",
     "section": "",
-    "text": "Hi, my name is Rachel Bittner and I am a third year Environmental studies and EEMB (Ecology, Evolution, and Marine Biology) major. I am currently working as an undergraduate researcher in the Gaines Lab studying sea grass characteristics and using Environmental DNA to inform management and restoration of coastal marine ecosystems. In regards to that, I am currently preparing to write a senior thesis expanding upon research questions regrading sea grass sediment characteristics. I am passionate about conservation science and interdisciplinary approaches that connect ecological research with social and environmental justice."
+    "text": "Hi, my name is Rachel Bittner and I am a third year Environmental studies and EEMB (Ecology, Evolution, and Marine Biology) major at UCSB. I am currently working as an undergraduate researcher in the Gaines Lab studying sea grass characteristics and using Environmental DNA to inform management and restoration of coastal marine ecosystems. In regards to that, I am currently preparing to write a senior thesis expanding upon research questions regrading sea grass sediment characteristics. I am passionate about conservation science and interdisciplinary approaches that connect ecological research with social and environmental justice."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Travel has given me some of the most valuable experiences of my life. It’s helped me grow more independent, confident, and adaptable in unfamiliar situations. From spending two months living and studying in Florence, Italy, to solo traveling in South America, each journey has shaped my sense of self and deepened my love for exploring the world. Experiencing new places has also strengthened my appreciation for the planet and the urgency of protecting it. In the coming year, I plan to travel to Moorea, French Polynesia to collect samples and conduct field research for my senior thesis; a trip that will combine my passion for travel with my academic goals.\n\n\n\nStudying Abroad In Florence"
+  },
+  {
+    "objectID": "about.html#travel",
+    "href": "about.html#travel",
+    "title": "About Me",
+    "section": "",
+    "text": "Travel has given me some of the most valuable experiences of my life. It’s helped me grow more independent, confident, and adaptable in unfamiliar situations. From spending two months living and studying in Florence, Italy, to solo traveling in South America, each journey has shaped my sense of self and deepened my love for exploring the world. Experiencing new places has also strengthened my appreciation for the planet and the urgency of protecting it. In the coming year, I plan to travel to Moorea, French Polynesia to collect samples and conduct field research for my senior thesis; a trip that will combine my passion for travel with my academic goals.\n\n\n\nStudying Abroad In Florence"
+  },
+  {
+    "objectID": "about.html#pets",
+    "href": "about.html#pets",
+    "title": "About Me",
+    "section": "🐾 Pets",
+    "text": "🐾 Pets\nAnimals have always been an important part of my life. Growing up with pets taught me empathy, patience, and a deep respect for the responsibilities of care. I currently have four dogs, one rescue and three golden retrievers, who bring joy and balance to my life outside of academics. My experiences with animals have also shaped my broader interest in ecology and the connections between humans and the natural world.\n\n\n\nFinny & Rex"
+  },
+  {
+    "objectID": "about.html#love-the-ocean",
+    "href": "about.html#love-the-ocean",
+    "title": "About Me",
+    "section": "🌊 Love the Ocean",
+    "text": "🌊 Love the Ocean\nGrowing up in San Diego and moving to Santa Barbara for college has allowed me to stay closely connected to the ocean, a place that has always felt like home. My deep love for the ocean has shaped both my personal identity and academic path. I feel incredibly grateful to have the opportunity to dedicate my career to understanding and protecting marine ecosystems through research, conservation, and advocacy.\n\n\n\nExploring tide pools"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "- text: Résumé (PDF)\n    href: resume.pdf"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Welcome to my project showcase! Below you’ll find a mix of coding work and academic/research-based writing."
+  },
+  {
+    "objectID": "Projects.html#project-overview",
+    "href": "Projects.html#project-overview",
+    "title": "My Projects",
+    "section": "Project Overview",
+    "text": "Project Overview\nIn this study, I analyzed sediment grain sizes from various seagrass beds across California. The goal was to see whether finer sediments, which are less oxygenated, correlated with greater carbon storage."
+  },
+  {
+    "objectID": "Projects.html#key-takeaways",
+    "href": "Projects.html#key-takeaways",
+    "title": "My Projects",
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\nSediments with a higher percentage of silt and clay had higher carbon content.\nSites with more wave energy had coarser sediments and lower carbon levels.\nThese findings support the hypothesis that sediment texture influences carbon burial potential.\n\nUnderstanding these patterns is essential for developing blue carbon conservation strategies, especially in coastal habitat restoration efforts."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "I’m broadly interested in the intersection of ecology, climate change, and environmental justice. My academic background in environmental studies and marine biology has shaped a research focus centered on how coastal ecosystems respond to human-driven environmental change.\n\n\n\nBlue Carbon & Coastal Ecosystems: Investigating how sediment characteristics in seagrass meadows affect carbon burial and storage.\nEcosystem Resilience: Studying how biodiversity loss and disturbance events (e.g., fire, ocean acidification) affect the stability and recovery of ecological communities.\nEnvironmental Justice & Conservation: Understanding how conservation science can be more equitable, inclusive, and community-driven.\n\n\n\n\n\nField ecology and long-term ecosystem monitoring\n\nData analysis in R (especially ggplot2, dplyr, and Quarto)\n\nIntegration of scientific research with environmental policy and outreach\n\n\n\n\nMy long-term goal is to pursue a career in marine conservation research that integrates field science with policy impact—especially in the face of climate change. I am particularly interested in contributing to applied research that informs restoration, resilience, and environmental justice strategies for vulnerable coastal systems."
+  },
+  {
+    "objectID": "Research.html#research-interests",
+    "href": "Research.html#research-interests",
+    "title": "Research Interests",
+    "section": "",
+    "text": "I’m broadly interested in the intersection of ecology, climate change, and environmental justice. My academic background in environmental studies and marine biology has shaped a research focus centered on how coastal ecosystems respond to human-driven environmental change.\n\n\n\nBlue Carbon & Coastal Ecosystems: Investigating how sediment characteristics in seagrass meadows affect carbon burial and storage.\nEcosystem Resilience: Studying how biodiversity loss and disturbance events (e.g., fire, ocean acidification) affect the stability and recovery of ecological communities.\nEnvironmental Justice & Conservation: Understanding how conservation science can be more equitable, inclusive, and community-driven.\n\n\n\n\n\nField ecology and long-term ecosystem monitoring\n\nData analysis in R (especially ggplot2, dplyr, and Quarto)\n\nIntegration of scientific research with environmental policy and outreach\n\n\n\n\nMy long-term goal is to pursue a career in marine conservation research that integrates field science with policy impact—especially in the face of climate change. I am particularly interested in contributing to applied research that informs restoration, resilience, and environmental justice strategies for vulnerable coastal systems."
   }
 ]
