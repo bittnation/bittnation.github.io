@@ -3,24 +3,23 @@ title: "About Me"
 ---
 
 
-Hi! I’m Rachel—a curious explorer, animal lover, and ocean enthusiast. Whether I’m hiking through national parks, hanging with my pets, or diving into marine conservation, I’m always chasing connection: with nature, with people, and with purpose.
 
 ## ✈️ Travel
 
-I’ve always believed that traveling is the best way to grow. From the misty redwoods of Northern California to the coral reefs of French Polynesia, I love exploring places that leave me feeling small in the best way possible.
+Travel has given me some of the most valuable experiences of my life. It’s helped me grow more independent, confident, and adaptable in unfamiliar situations. From spending two months living and studying in Florence, Italy, to solo traveling in South America, each journey has shaped my sense of self and deepened my love for exploring the world. Experiencing new places has also strengthened my appreciation for the planet and the urgency of protecting it. In the coming year, I plan to travel to Moorea, French Polynesia to collect samples and conduct field research for my senior thesis; a trip that will combine my passion for travel with my academic goals. 
 
-![Hiking in the mountains](images/travel.jpg)
+![Senic View of Florence](images/travel.jpg)
 
 ## 🐾 Pets
 
-Life is just better with animals in it. I currently share my home with a goofy golden retriever and a very judgmental cat. I’ve also volunteered with animal rescues—nothing makes me happier than seeing an adopted pet find their forever home.
+Animals have always been an important part of my life. Growing up with pets taught me empathy, patience, and a deep respect for the responsibilities of care. I currently have four dogs, one rescue and three golden retrievers, who bring joy and balance to my life outside of academics. My experiences with animals have also shaped my broader interest in ecology and the connections between humans and the natural world.
 
-![Cuddling with my pets](images/pets.jpg)
+![Finny & Rex](images/pets.jpg)
 
 ## 🌊 Love the Ocean
 
-The ocean has always felt like home. I’m passionate about marine life and protecting the planet. Whether I’m tidepooling, snorkeling, or walking the shore, I always feel recharged by salt air and sea spray.
+Growing up in San Diego and moving to Santa Barbara for college has allowed me to stay closely connected to the ocean—a place that has always felt like home. My deep love for the ocean has shaped both my personal identity and academic path. I feel incredibly grateful to have the opportunity to dedicate my career to understanding and protecting marine ecosystems through research, conservation, and advocacy.
 
 ![Exploring tide pools](images/ocean.jpg)
 
----
+
