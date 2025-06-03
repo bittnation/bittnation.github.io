@@ -16,8 +16,6 @@ about:
       href: "mailto:rachelbittner@ucsb.edu"
     - text: Personal Email
       href: "mailto:rachelbittner7@gmail.com"
-
 ---
 
-Hi, my name is Rachel Bittner and I am a third year Environmental studies and EEMB (Ecology, Evolution, and Marine Biology) major. I am currently working as an undergraduate researcher in the Gaines Lab studying sea grass characteristics and using Environmental DNA to inform management and restoration of coastal marine ecosystems. In regards to that, I am currently preparing to write a senior thesis expanding upon research questions regrading sea grass sediment characteristics. I am passionate about conservation science and interdisciplinary approaches that connect ecological research with social and environmental justice.  
-
+Hi, my name is Rachel Bittner and I am a third year Environmental studies and EEMB (Ecology, Evolution, and Marine Biology) major at UCSB. I am currently working as an undergraduate researcher in the Gaines Lab studying sea grass characteristics and using Environmental DNA to inform management and restoration of coastal marine ecosystems. In regards to that, I am currently preparing to write a senior thesis expanding upon research questions regrading sea grass sediment characteristics. I am passionate about conservation science and interdisciplinary approaches that connect ecological research with social and environmental justice.

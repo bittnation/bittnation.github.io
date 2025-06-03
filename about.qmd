@@ -1,3 +1,26 @@
 ---
 title: "About Me"
 ---
+
+
+Hi! I’m Rachel—a curious explorer, animal lover, and ocean enthusiast. Whether I’m hiking through national parks, hanging with my pets, or diving into marine conservation, I’m always chasing connection: with nature, with people, and with purpose.
+
+## ✈️ Travel
+
+I’ve always believed that traveling is the best way to grow. From the misty redwoods of Northern California to the coral reefs of French Polynesia, I love exploring places that leave me feeling small in the best way possible.
+
+![Hiking in the mountains](images/travel.jpg)
+
+## 🐾 Pets
+
+Life is just better with animals in it. I currently share my home with a goofy golden retriever and a very judgmental cat. I’ve also volunteered with animal rescues—nothing makes me happier than seeing an adopted pet find their forever home.
+
+![Cuddling with my pets](images/pets.jpg)
+
+## 🌊 Love the Ocean
+
+The ocean has always felt like home. I’m passionate about marine life and protecting the planet. Whether I’m tidepooling, snorkeling, or walking the shore, I always feel recharged by salt air and sea spray.
+
+![Exploring tide pools](images/ocean.jpg)
+
+---

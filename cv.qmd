@@ -3,3 +3,7 @@ title: "CV"
 format: html
 ---
 
+```         
+  - text: Résumé (PDF)
+    href: resume.pdf
+```

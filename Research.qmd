@@ -3,3 +3,28 @@ title: "Research Interest Statement"
 format: html
 ---
 
+---
+title: "Research Interests"
+format: html
+---
+
+## 🌿 Research Interests
+
+I’m broadly interested in the intersection of ecology, climate change, and environmental justice. My academic background in environmental studies and marine biology has shaped a research focus centered on how coastal ecosystems respond to human-driven environmental change.
+
+### 🔬 Current Interests
+
+- **Blue Carbon & Coastal Ecosystems**: Investigating how sediment characteristics in seagrass meadows affect carbon burial and storage.
+- **Ecosystem Resilience**: Studying how biodiversity loss and disturbance events (e.g., fire, ocean acidification) affect the stability and recovery of ecological communities.
+- **Environmental Justice & Conservation**: Understanding how conservation science can be more equitable, inclusive, and community-driven.
+
+### 📈 Methodological Interests
+
+- Field ecology and long-term ecosystem monitoring  
+- Data analysis in R (especially ggplot2, dplyr, and Quarto)  
+- Integration of scientific research with environmental policy and outreach
+
+### 🌊 Future Goals
+
+My long-term goal is to pursue a career in marine conservation research that integrates field science with policy impact—especially in the face of climate change. I am particularly interested in contributing to applied research that informs restoration, resilience, and environmental justice strategies for vulnerable coastal systems.
+

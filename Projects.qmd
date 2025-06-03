@@ -2,4 +2,28 @@
 title: " My Projects"
 format: html
 ---
+---
+Welcome to my project showcase! Below you'll find a mix of coding work and academic/research-based writing.
 
+-   [Data Analysis: Glacier Loss Visualization](analysis-with-code.qmd)
+-   [Research Summary: Carbon Storage in Seagrass Meadows](research-paper-summary.qmd)
+
+
+
+### 📄 `projects/research-paper-summary.qmd` — Post With Project/Paper Description
+
+This paper was written for my marine ecology course, where we explored how sediment characteristics in seagrass meadows influence organic carbon storage.
+
+## Project Overview
+
+In this study, I analyzed sediment grain sizes from various seagrass beds across California. The goal was to see whether finer sediments, which are less oxygenated, correlated with greater carbon storage.
+
+## Key Takeaways
+
+-   Sediments with a higher percentage of silt and clay had higher carbon content.
+-   Sites with more wave energy had coarser sediments and lower carbon levels.
+-   These findings support the hypothesis that sediment texture influences carbon burial potential.
+
+Understanding these patterns is essential for developing blue carbon conservation strategies, especially in coastal habitat restoration efforts.
+
+---
