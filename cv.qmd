@@ -3,7 +3,7 @@ title: "CV"
 format: html
 ---
 
-```         
-  - text: Résumé (PDF)
-    href: resume.pdf
-```
+
+![Résumé ](images/rachel_bittner_resume.png)
+
+
