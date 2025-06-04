@@ -7,7 +7,7 @@ about:
   template: trestles
   image: "images/IMG_7900.jpg"
   image-shape: round
-  image-width: "17"
+  image-width: "6"
   links:
     - text: LinkedIn
       href: "https://www.linkedin.com/in/rachel-brooke-bittner/r"
