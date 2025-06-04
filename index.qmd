@@ -6,7 +6,7 @@ toc: false
 about:
   template: trestles
   image: "images/IMG_7900.jpg"
-  image-shape: round
+  image-shape: rectangle
   image-width: "6"
   links:
     - text: LinkedIn
