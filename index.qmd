@@ -4,8 +4,8 @@ image: "images/IMG_7900.jpg"
 
 toc: false
 about:
-  template: marquee
-  image-shape: rectangle
+  template: jolla
+  image-shape: round
   image-width: "17"
   links:
     - text: LinkedIn

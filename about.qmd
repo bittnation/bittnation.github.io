@@ -1,5 +1,7 @@
 ---
 title: "About Me"
+format: html
+editor: visual
 ---
 
 ## Travel
@@ -8,11 +10,6 @@ Travel has given me some of the most valuable experiences of my life. It’s hel
 
 ![Studying Abroad In Florence](images/IMG_6126.jpeg)
 
----
-title: "My Travel Map"
-format: html
-editor: visual
----
 
 ##  Places I've Been
 
