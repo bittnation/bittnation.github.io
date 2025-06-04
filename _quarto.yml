@@ -15,13 +15,16 @@ website:
 
 format:
   html:
-    theme:
-      light: Morph
-      dark: Solar
-
-    css: styles.css
+    theme: Morph
+    css: styles.css        
     toc: true
     page-layout: full
+    includes:
+      in-header: fonts.html
 
 editor: visual
+
+includes:
+  in-header: fonts.hrml
+
 

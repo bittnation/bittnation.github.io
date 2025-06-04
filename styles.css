@@ -1,1 +1,40 @@
-/* css styles */
+/* Coastal + Professional Theme with Lighter Blues */
+
+$font-family-sans-serif: 'Poppins', sans-serif;
+$font-family-monospace: 'Fira Code', monospace;
+
+body {
+  background-color: #f6fcff;
+  color: #003049;
+  font-family: $font-family-sans-serif;
+  line-height: 1.6;
+}
+
+a {
+  color: #447099;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #75AADB;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4 {
+  font-family: $font-family-sans-serif;
+  color: #447099;
+  font-weight: 600;
+}
+
+.navbar {
+  background-color: #447099 !important;
+}
+
+.navbar a, .navbar-brand {
+  color: #ffffff !important;
+}
+
+.navbar a:hover {
+  color: #75AADB !important;
+}
+
