@@ -37,4 +37,11 @@ h1, h2, h3, h4 {
 .navbar a:hover {
   color: #75AADB !important;
 }
+/* Limit the size of the about page image more tightly */
+.about-image {
+  max-width: 200px;      // or 150px for a tighter look
+  border-radius: 50%;    // keeps it circular
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);  // optional soft shadow
+  margin-bottom: 1rem;
+}
 
