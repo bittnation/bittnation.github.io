@@ -8,6 +8,60 @@ Travel has given me some of the most valuable experiences of my life. It’s hel
 
 ![Studying Abroad In Florence](images/IMG_6126.jpeg)
 
+---
+title: "My Travel Map"
+format: html
+editor: visual
+---
+
+##  Places I've Been
+
+```{r}
+#| echo: false
+library(leaflet)
+```
+
+
+```{r}
+#| echo: false
+# Create the map
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng = -117.1611, lat = 32.7157, popup = "San Diego") %>%
+  addMarkers(lng = -134.4197, lat = 58.3019, popup = "Juneau") %>%
+  addMarkers(lng = -123.3656, lat = 48.4284, popup = "Victoria, BC") %>%
+  addMarkers(lng = -123.5520, lat = 48.9314, popup = "Whisper") %>%  # Please confirm location for "Whisper"
+  addMarkers(lng = -123.1207, lat = 49.2827, popup = "Vancouver") %>%
+  addMarkers(lng = -122.3321, lat = 47.6062, popup = "Seattle") %>%
+  addMarkers(lng = -119.8138, lat = 39.5296, popup = "Reno") %>%
+  addMarkers(lng = -119.6982, lat = 34.4208, popup = "Santa Barbara") %>%
+  addMarkers(lng = -109.9120, lat = 22.8905, popup = "Cabo San Lucas") %>%
+  addMarkers(lng = -84.6333, lat = 9.6144, popup = "Jaco, Costa Rica") %>%
+  addMarkers(lng = -55.9451, lat = -34.9581, popup = "Punta del Este, Uruguay") %>%
+  addMarkers(lng = 2.1734, lat = 41.3851, popup = "Barcelona") %>%
+  addMarkers(lng = 9.2572, lat = 46.0167, popup = "Lake Como") %>%
+  addMarkers(lng = 9.6833, lat = 44.1167, popup = "Cinque Terre") %>%
+  addMarkers(lng = 12.3155, lat = 45.4408, popup = "Venice") %>%
+  addMarkers(lng = 11.2558, lat = 43.7696, popup = "Florence") %>%
+  addMarkers(lng = 12.4964, lat = 41.9028, popup = "Rome") %>%
+  addMarkers(lng = 9.1951, lat = 40.1209, popup = "Sardinia") %>%
+  addMarkers(lng = -155.5828, lat = 19.8968, popup = "Hawaii") %>%
+  addMarkers(lng = -81.5158, lat = 27.9944, popup = "Florida") %>%
+  addMarkers(lng = -89.6165, lat = 44.5000, popup = "Wisconsin") %>%
+  addMarkers(lng = -74.0059, lat = 40.7128, popup = "New York City") %>%
+  addMarkers(lng = -110.3626, lat = 46.8797, popup = "Montana") %>%
+  addMarkers(lng = -114.7420, lat = 44.0682, popup = "Idaho")%>%
+addMarkers(lng = -123.5520, lat = 48.9314, popup = "Whistler") 
+
+
+```
+
+
+
+
+
+
+
 ## Pets
 
 Animals have always been an important part of my life. Growing up with pets taught me empathy, patience, and a deep respect for the responsibilities of care. I currently have four dogs, one rescue and three golden retrievers, who bring joy and balance to my life outside of academics. My experiences with animals have also shaped my broader interest in ecology and the connections between humans and the natural world.
