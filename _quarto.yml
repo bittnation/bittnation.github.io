@@ -20,7 +20,7 @@ format:
     toc: true
     page-layout: full
     includes:
-      in-header: fonts.html
+      in-header: fonts.hrml
 
 editor: visual
 
