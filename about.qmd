@@ -10,14 +10,12 @@ Travel has given me some of the most valuable experiences of my life. It’s hel
 
 ![Studying Abroad In Florence](images/IMG_6126.jpeg)
 
-
-##  Places I've Been
+## Places I've Been
 
 ```{r}
 #| echo: false
 library(leaflet)
 ```
-
 
 ```{r}
 #| echo: false
@@ -52,12 +50,6 @@ addMarkers(lng = -123.5520, lat = 48.9314, popup = "Whistler")
 
 
 ```
-
-
-
-
-
-
 
 ## Pets
 

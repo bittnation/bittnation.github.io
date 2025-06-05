@@ -5,7 +5,7 @@ title: "Rachel Bittner"
 toc: false
 about:
   template: trestles
-  image: "images/IMG_7900.jpg"
+  image: "images/IMG_5207.jpg"
   image-shape: rectangle
   image-width: "6"
   links:

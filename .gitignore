@@ -3,5 +3,7 @@
 .RData
 .DS_Store
 .httr-oauth
-.quarto/         
+.quarto/
 
+
+/.quarto/
